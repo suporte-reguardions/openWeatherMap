@@ -53,7 +53,7 @@ const CITY_IDS = [
   1880252, // Singapore (Singapura)
   1735161, // Kuala Lumpur (Malásia)
   1609350, // Bangkok (Tailândia)
-  1566083, // Ho Chi Minh City (Vietnã)
+  //1566083,  Ho Chi Minh City (Vietnã)
   1581130, // Hanoi (Vietnã)
   1275339, // Mumbai (Índia)
 
